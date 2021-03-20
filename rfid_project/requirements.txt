@@ -41,7 +41,7 @@ itsdangerous==1.1.0
 jaraco.itertools==5.0.0
 javascript==2015.32.59
 jdcal==1.4.1
-Jinja2==2.11.1
+Jinja2==2.11.3
 jmespath==0.9.3
 Kivy==1.11.1
 kivy-deps.angle==0.2.0
